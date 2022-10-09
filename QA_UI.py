@@ -4,7 +4,7 @@ from tkinter.scrolledtext import ScrolledText
 import QA_System
 import os
 # making path for my directory
-path = r"di"
+path = r"direcory path"
 
 # open path in my directory
 os.chdir(path)
