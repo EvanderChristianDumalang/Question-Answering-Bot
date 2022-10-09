@@ -7,6 +7,8 @@
 
 Python Question Answering Bot
 
+Diponegoro War
+
 ### Built With
 
 * [![Python][Python.org]][Python-url]
@@ -17,7 +19,7 @@ Python Question Answering Bot
 ## Documentation
 
 ### App Preview
-<img src="preview/menu.png" width="400" height="200"> <img src="preview/array.png" width="400" height="200"> <img src="preview/plot.png" width="400" height="200">
+<img src="preview/menu.png" width="400" height="200"> <img src="preview/question.png" width="400" height="200"> <img src="preview/answer.png" width="400" height="200">
 
 ### Demo
 <img src="preview/demo.gif" width="640" height="360">
