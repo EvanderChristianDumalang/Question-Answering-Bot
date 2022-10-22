@@ -5,7 +5,7 @@
 
 # Question Answering Bot GUI
 
-Python Question Answering Bot
+Python Question Answering Bot using BERT
 
 Diponegoro War
 
